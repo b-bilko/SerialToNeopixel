@@ -6,6 +6,7 @@ Takes serial input with led number and rgb values and sets rgb of neopixels acco
 
 
 The input should match the following format:
+
 P6:255,255,255
 
 P7:0,0,255
